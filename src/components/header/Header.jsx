@@ -58,9 +58,9 @@ const Header = () => {
                         </li>
 
                         <li className="nav__item">
-                            <a href="/login"
-                            onClick={() => setActiveNav("/login")}
-                            className={activeNav === "/login" ? "nav__link active-link" : "nav__link"}>
+                            <a href="http://localhost/Login/login.php"
+                            onClick={() => setActiveNav("#login")}
+                            className={activeNav === "#login" ? "nav__link active-link" : "nav__link"}>
                                 <i class="uil uil-signin nav__icon"></i> Login
                             </a>
                         </li>

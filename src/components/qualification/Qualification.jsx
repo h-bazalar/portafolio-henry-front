@@ -59,7 +59,7 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Programa de Especialización en Python for Data Science</h3>    
-                                <span className="qualification__subtitle">SDC – LEARNING - LIMA</span>
+                                <span className="qualification__subtitle">SDC LEARNING - LIMA</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i> 2021
                                 </div>
